@@ -13,7 +13,7 @@ It is optimized for self-hosted environments and allows fast deployment with min
 - 🧠 Intelligent worker management  
 - 📡 Direct RPC node integration  
 - 🪶 Lightweight Node.js implementation  
-- 🔧 Easily adaptable to custom blockchain networks  
+  
 
 ---
 
@@ -65,10 +65,3 @@ node start.js
 
 ---
 
-## 🔥 Purpose
-
-This pool is intended for private mining setups and custom blockchain networks (mainnet/testnet forks), focusing on:
-
-- Stability  
-- Low overhead  
-- Full infrastructure control  
