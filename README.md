@@ -1,3 +1,4 @@
+
 # 🚀 BitcoinPurple FoundationV1 Pool
 
 **FoundationV1 Pool** is a high-performance mining pool built in Node.js, designed for stability, speed, and efficient management of UTXO-based mining operations.
